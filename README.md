@@ -2,7 +2,7 @@ Django-REST-Framework demo
 ========
 
 
-* `sudo apt-get install \`cat apt-requirements.txt\` `
+* ```sudo apt-get install `cat apt-requirements.txt` ```
 * `virtualenv env && source env/bin/activate && pip install -r requirements.txt`
 * `cd demo`
 * `./manage.py syncdb`
