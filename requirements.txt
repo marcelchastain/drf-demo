@@ -1,1 +1,8 @@
 Django==1.6.7
+djangorestframework
+
+# markdown support for the browsable API
+markdown
+
+# Filtering support
+django-filter
